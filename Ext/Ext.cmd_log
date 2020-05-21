@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "D:/computer/Ext/Ext.xst" -ofn "D:/computer/Ext/Ext.syr" 
+xst -intstyle ise -ifn "D:/computer/Ext/Ext.xst" -ofn "D:/computer/Ext/Ext.syr" 

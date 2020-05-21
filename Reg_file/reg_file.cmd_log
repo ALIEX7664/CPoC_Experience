@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/computer/Reg_file/reg_file.xst" -ofn "D:/computer/Reg_file/reg_file.syr" 
